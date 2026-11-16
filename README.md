@@ -28,7 +28,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2026 [Harish](https://github.com/G-K-Harish).<br />
-This project is [MIT](https://github.com/G-K-Harish/Online_Food_Delivery_Analysis/issues) licensed.
+This project is MIT licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
