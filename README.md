@@ -1,34 +1,102 @@
-<h1 align="center">Welcome to Online Food Delivery Analysis 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/G-K-Harish/Online_Food_Delivery_Analysis/issues" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
+
+<h1 align="center">Online Food Delivery Analysis 🍔</h1>
+
+<p align="center">
+  A beginner-friendly data analytics project using
+  <strong>Python, MySQL, and Power BI</strong>.
 </p>
 
-> End-to-end food delivery data analysis using Python, MySQL, and Power BI. Analysed 100000 orders to explore customer behaviour, revenue trends, restaurant performance, cancellations, and delivery efficiency through interactive dashboards.
+<p align="center">
+  Analysing <strong>97,011 orders</strong> from 2024 to understand
+  customer behaviour, revenue trends, restaurant performance,
+  cancellations, and delivery patterns.
+</p>
 
-### 🏠 [Homepage](https://github.com/G-K-Harish/Online_Food_Delivery_Analysis)
+---
 
-## Author
+<h2>🛠️ Tools Used</h2>
 
-👤 **Harish**
+<ul>
+  <li><strong>Python</strong> – Data cleaning and analysis</li>
+  <li><strong>Pandas</strong> – Data manipulation</li>
+  <li><strong>MySQL</strong> – Data storage and SQL queries</li>
+  <li><strong>Power BI</strong> – Dashboard creation</li>
+  <li><strong>DAX</strong> – Calculated measures</li>
+</ul>
 
-* Github: [@G-K-Harish](https://github.com/G-K-Harish)
-* LinkedIn: [@harish-gk](https://linkedin.com/in/harish-gk)
+<h2>📊 Project Workflow</h2>
 
-## 🤝 Contributing
+<ol>
+  <li>Explored and cleaned the dataset using Python.</li>
+  <li>Performed data analysis using Pandas.</li>
+  <li>Stored the prepared data in MySQL.</li>
+  <li>Connected MySQL to Power BI.</li>
+  <li>Created interactive dashboards to present the findings.</li>
+</ol>
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/G-K-Harish/Online_Food_Delivery_Analysis/issues). 
+<h2>📈 Dashboard Pages</h2>
 
-## Show your support
+<h3>1. Executive Overview</h3>
+<ul>
+  <li>Total orders and delivered revenue</li>
+  <li>Monthly revenue trends</li>
+  <li>Orders by city</li>
+  <li>Order status distribution</li>
+</ul>
 
-Give a ⭐️ if this project helped you!
+<h3>2. Customer &amp; Restaurant Analysis</h3>
+<ul>
+  <li>Customer age distribution</li>
+  <li>Revenue by cuisine</li>
+  <li>Top 10 restaurants by recorded revenue</li>
+  <li>Payment mode analysis</li>
+</ul>
 
-## 📝 License
+<h3>3. Delivery Performance</h3>
+<ul>
+  <li>Average delivery time by city</li>
+  <li>Delivery time vs distance</li>
+  <li>Delivery ratings</li>
+  <li>Cancellation reasons</li>
+</ul>
 
-Copyright © 2026 [Harish](https://github.com/G-K-Harish).<br />
-This project is MIT licensed.
+<h2>📌 Dataset Information</h2>
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<ul>
+  <li><strong>Total records:</strong> 97,011</li>
+  <li><strong>Total columns:</strong> 25</li>
+  <li><strong>Data period:</strong> January–December 2024</li>
+</ul>
+
+<h2>💡 What I Learned</h2>
+
+<ul>
+  <li>Working with real-world-style datasets</li>
+  <li>Data cleaning and exploration using Python</li>
+  <li>Writing SQL queries and working with MySQL</li>
+  <li>Connecting databases to Power BI</li>
+  <li>Creating dashboards using DAX and Power BI visuals</li>
+  <li>Identifying data quality issues before interpreting results</li>
+</ul>
+
+<h2>👨‍💻 Author</h2>
+
+<p><strong>Harish</strong></p>
+
+<ul>
+  <li>
+    GitHub:
+    <a href="https://github.com/G-K-Harish">G-K-Harish</a>
+  </li>
+  <li>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/harish-gk/">Harish G K</a>
+  </li>
+</ul>
+
+<h2>📄 License</h2>
+
+<p>
+  This project is licensed under the
+  <a href="LICENSE">MIT License</a>.
+</p>
