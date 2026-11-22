@@ -19,7 +19,7 @@ df["Order_Date"] = df["Order_Date"].dt.strftime("%Y-%m-%d")
 
 # Export a separate SQL-ready file
 df.to_csv(
-    "SQL_READY.csv",
+    r"C:\TRAINING_CODES\Online_Food_Delivery_Analysis\Data\SQL_READY.csv",
     index=False
 )
 
